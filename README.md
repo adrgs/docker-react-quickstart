@@ -5,8 +5,8 @@ Quickstart for developing React applications inside Docker
 
 #### 1. Clone this repository
 ```
-git clone https://github.com/adrgs/docker_react_quickstart
-cd docker_react_quickstart
+git clone https://github.com/adrgs/docker-react-quickstart
+cd docker-react-quickstart
 ```
 #### 2. Create the basic react application using create-react-app 
 ```
